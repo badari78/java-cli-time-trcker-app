@@ -1,4 +1,4 @@
-package io.javabrains;
+package io.javabrains.data;
 
 import java.time.LocalDateTime;
 

@@ -1,4 +1,4 @@
-package io.javabrains;
+package io.javabrains.data;
 
 public class Category {
 

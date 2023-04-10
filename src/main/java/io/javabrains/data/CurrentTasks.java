@@ -1,4 +1,6 @@
-package io.javabrains;
+package io.javabrains.data;
+
+import io.javabrains.Logger;
 
 import java.time.LocalDateTime;
 import java.util.HashMap;
